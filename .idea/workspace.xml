@@ -41,6 +41,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -60,7 +61,11 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/zsarn/AndroidProject/7MinutesWorkout"
+    "last_opened_file_path": "C:/Users/zsarn/AndroidProject/7MinutesWorkout",
+    "project.structure.last.edited": "Build Variants",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -149,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712842290869</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added main view UI designed">
+      <option name="closed" value="true" />
+      <created>1712842608733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712842608733</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added main view UI designed">
+      <option name="closed" value="true" />
+      <created>1712843404373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712843404373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
