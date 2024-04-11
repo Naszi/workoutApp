@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#008F24</color>
+    <color name="colorPrimary">#B2212121</color>
+    <color name="colorPrimaryDark">#B2212121</color>
+    <color name="lightGray">#C4C4C4</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="default_button_text_size">50sp</dimen>
+    <dimen name="main_screen_main_layout_padding">15dp</dimen>
+    <string name="app_name">7MinutesWorkout</string>
+    <string name="start">START</string>
+    <string name="start_image">start image</string>
+    <style name="Base.Theme._7MinutesWorkout" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme._7MinutesWorkout" parent="Base.Theme._7MinutesWorkout"/>
+</resources>
